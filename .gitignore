@@ -1,0 +1,44 @@
+.env
+.env.local
+.env.production
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Banco vetorial (pode ser grande)
+*.faiss
+*.pkl
+
+# Documentos (opcional - descomente se não quiser subir os PDFs)
+# documentos/*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
