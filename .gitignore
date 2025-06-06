@@ -27,7 +27,7 @@ __pycache__/
 *.pkl
 
 # Documentos (opcional - descomente se não quiser subir os PDFs)
-# documentos/*.pdf
+documentos/*.pdf
 
 # IDE
 .vscode/
